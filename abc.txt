@@ -1,0 +1,10 @@
+ Volume in drive D is LENOVO
+ Volume Serial Number is 5496-EEE2
+
+ Directory of D:\MyProject
+
+09-04-2017  14:25    <DIR>          .
+09-04-2017  14:25    <DIR>          ..
+09-04-2017  14:25                 0 abc.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  23,798,841,344 bytes free
